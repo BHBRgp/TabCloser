@@ -1,1 +1,0 @@
-This Google Chrome extension closes the tabs that have the same host as the selected one.
