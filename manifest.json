@@ -3,6 +3,7 @@
   "version": "0.1",
   "description": "Closes the tabs that have the same host as the selected one.",
   "background_page": "similartabs.html",
+  "manifest_version": 2,
   "icons": {
       "16": "icon_16.png",
       "48": "icon_48.png"
