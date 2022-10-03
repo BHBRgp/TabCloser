@@ -1,5 +1,5 @@
 {
-  "name": "ZHB Cloud - Close All Tabs",
+  "name": "TabCloser",
   "version": "0.1",
   "description": "Closes all the tabs.",
   "background_page": "background.html",
@@ -10,7 +10,7 @@
       "128": "icon_128.png"
    },
   "browser_action": {
-      "default_title": "Close All Tabs",
+      "default_title": "TabCloser",
        "default_icon": "icon_16.png"
   },
   "permissions": [
