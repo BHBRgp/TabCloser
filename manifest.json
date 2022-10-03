@@ -1,15 +1,16 @@
 {
-  "name": "Close Similar Tabs",
+  "name": "ZHB Cloud - Close All Tabs",
   "version": "0.1",
-  "description": "Closes the tabs that have the same host as the selected one.",
-  "background_page": "similartabs.html",
+  "description": "Closes all the tabs.",
+  "background_page": "background.html",
   "manifest_version": 2,
   "icons": {
       "16": "icon_16.png",
-      "48": "icon_48.png"
+      "48": "icon_48.png",
+      "128": "icon_128.png"
    },
   "browser_action": {
-      "default_title": "Close similar tabs",
+      "default_title": "Close All Tabs",
        "default_icon": "icon_16.png"
   },
   "permissions": [
